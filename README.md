@@ -12,5 +12,5 @@ Supported devices: Arduino Uno, Raspberry Pi 2/3/4, BeagleBone Black
 There are also a few devices that will NOT work with LINX.
 Non-working devices: Raspberry Pi 1, Raspberry Pi Zero, Raspberry Pi Zero W
 
-### Getting Started:
+### Getting Started:J
 https://www.labviewmakerhub.com/linx
